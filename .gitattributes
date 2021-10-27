@@ -11,6 +11,7 @@
 *.java text eol=lf
 *.kt text eol=lf
 *.test text eol=lf
+*.txt text eol=lf
 
 # Denote all files that are truly binary and should not be modified.
 #*.png binary
